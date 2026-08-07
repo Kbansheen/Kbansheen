@@ -1,32 +1,268 @@
-<h1 align="center">Hi 👋, I'm Bansheen</h1>
-<h3 align="center">A passionate data analyst, cloud engineer and frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbansheen&label=Profile%20views&color=0e75b6&style=flat" alt="kbansheen" /> </p>
+# Hi, I'm Bansheen Kaur
 
-- 🔭 I’m currently working on **Data structures and Algorithms**
+### Computer Science Engineer • AI Researcher • Software Developer
 
-- 🌱 I’m currently learning **AWS (cloud computing) and data analytics**
+Building intelligent software systems through Artificial Intelligence, Cybersecurity, Cloud Computing, and applied research.
 
-- 👨‍💻 All of my projects are available at [https://kbansheen.github.io/portfolio_bk/](https://kbansheen.github.io/portfolio_bk/)
+<p>
 
-- 💬 Ask me about **data analytics, visualization, cloud or frontend technologies**
+<a href="https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ">Google Scholar</a> •
+<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
+<a href="mailto:banshofficial123@gmail.com">Email</a>
 
-- 📫 How to reach me **banshofficial123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14h9tm6bxuic_1XO3Qssq1o0cxHMLU0Mi/view?usp=drive_link](https://drive.google.com/file/d/14h9tm6bxuic_1XO3Qssq1o0cxHMLU0Mi/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bansheen-kaur-a8120b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/the-intellects-3205a3289" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/banshofficial123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/banshofficial123/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/banshofficial123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="banshofficial123" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbansheen&show_icons=true&locale=en&layout=compact" alt="kbansheen" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kbansheen&show_icons=true&locale=en" alt="kbansheen" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbansheen&" alt="kbansheen" /></p>
+I enjoy building intelligent software that combines research with practical engineering. My interests span Artificial Intelligence, Cybersecurity, Cloud Computing, Software Engineering, and Intelligent Information Retrieval, where I focus on developing solutions that are both technically rigorous and applicable to real-world challenges.
+
+As a Computer Science Engineer, I enjoy designing and developing software that solves practical problems while exploring emerging technologies. My work ranges from AI-powered information retrieval systems and intelligent security solutions to full-stack web applications, cloud-based systems, and software engineering projects.
+
+Alongside software development, I actively work on AI-driven approaches for secure systems, Retrieval-Augmented Generation (RAG), semantic search, trustworthy AI, and intelligent cybersecurity. I believe research creates the greatest impact when it evolves into reproducible implementations that others can understand, build upon, and apply.
+
+---
+
+## Research
+
+My work explores how Artificial Intelligence can enhance cybersecurity, cloud security, and intelligent information systems.
+
+Rather than treating research as a finished publication, I view it as a continuous engineering process—starting with identifying a problem, progressing through experimentation and implementation, and evolving through ongoing improvements and future research.
+
+### Research Interests
+
+- Artificial Intelligence
+- Cybersecurity
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Zero Trust Security
+- Cloud Security
+- Cloud Forensics
+- Intelligent Incident Response
+- Large Language Models
+- Trustworthy AI
+
+> *"Good research doesn't end with publication—it continues through implementation, validation, and continuous improvement."*
+
+---
+
+## Featured Work
+
+The projects below represent my work across Artificial Intelligence, Cybersecurity, Cloud Computing, and Software Engineering. They combine research with practical implementations, focusing on building intelligent, secure, and scalable systems.
+
+---
+
+### RAG Semantic Search Platform
+
+A research-driven implementation that enhances document retrieval using semantic search and Large Language Models through Retrieval-Augmented Generation (RAG).
+
+**Highlights**
+
+- Intelligent document retrieval
+- Semantic search pipeline
+- Context-aware information retrieval
+- Built alongside my published research
+
+<div align="center">
+
+Repository Card
+
+Research Paper • Documentation • Implementation
+
+</div>
+
+---
+
+### AI Cloud Security Framework
+
+An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust evaluation, and intelligent incident response for secure cloud environments.
+
+**Highlights**
+
+- AI-assisted cloud investigations
+- Behaviour-based trust evaluation
+- Zero Trust security principles
+- Intelligent incident response
+
+<div align="center">
+
+Repository Card
+
+Research Paper • Implementation
+
+</div>
+
+---
+
+### Enterprise RAG Assistant
+
+Development of Retrieval-Augmented Generation workflows for enterprise knowledge management and conversational AI systems.
+
+**Highlights**
+
+- Enterprise knowledge retrieval
+- RAG-based search
+- Conversational AI
+- Intelligent document understanding
+
+<div align="center">
+
+Repository Card
+
+Documentation • Implementation
+
+</div>
+
+---
+
+### FMRI IT Service Portal
+
+A web application developed to manage internal IT service requests with a structured backend and database-driven workflow.
+
+**Highlights**
+
+- Service request management
+- Database integration
+- Internal workflow automation
+- PHP & MySQL backend
+
+<div align="center">
+
+Repository Card
+
+</div>
+
+---
+
+### Frontend & Web Projects
+
+A collection of responsive web applications built to explore modern frontend development, UI design, and web engineering.
+
+**Highlights**
+
+- Responsive web interfaces
+- Modern frontend development
+- Interactive UI components
+- Clean and scalable design
+
+<div align="center">
+
+Repository Card
+
+</div>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/kbansheen?tab=repositories">
+<b>View All Repositories →</b>
+</a>
+
+</p>
+
+---
+
+## Publications & Research
+
+Research, for me, is more than publishing papers—it's about transforming ideas into practical, reproducible implementations. Every project I work on aims to bridge the gap between theory and real-world engineering, allowing others to understand, reproduce, and build upon the work.
+
+---
+
+### Retrieval-Augmented Generation with Semantic Search
+
+**Status:** Published
+
+A research study exploring how semantic search and Retrieval-Augmented Generation (RAG) can improve document retrieval using Large Language Models for intelligent knowledge retrieval.
+
+**Links**
+
+- 📄 **View Publication** *(Add publication URL)*
+- 💻 **View Implementation** *(GitHub Repository)*
+- 📘 **Project Documentation** *(Repository README)*
+
+---
+
+### Role of Nanomaterials in Li-Fi
+
+**Status:** Published
+
+A review study exploring how nanomaterials can enhance Li-Fi communication systems and their future potential in next-generation wireless communication.
+
+**Links**
+
+- 📄 **View Publication** *(Add publication URL)*
+
+---
+
+### AI-Driven Cloud Security & Intelligent Incident Response
+
+**Status:** Ongoing Research
+
+Current work focuses on building intelligent security systems capable of adaptive trust evaluation, AI-assisted cloud forensics, and intelligent incident response for secure cloud environments.
+
+**Current Research Areas**
+
+- AI-assisted Cloud Forensics
+- Continuous Trust Evaluation
+- Behaviour-based Access Control
+- Intelligent Incident Response
+- Explainable AI for Security
+- Practical Research Implementations
+
+Future publications, implementations, and project repositories will be added as the research progresses.
+
+---
+
+## Technical Expertise
+
+My technical background combines software engineering, artificial intelligence, cybersecurity, cloud technologies, and research-driven development. I enjoy building systems that are practical, scalable, and supported by sound engineering principles.
+
+| Domain | Technologies |
+|---------|--------------|
+| **Programming Languages** | Java • Python • C/C++ • JavaScript • PHP • SQL |
+| **Artificial Intelligence** | LangChain • Retrieval-Augmented Generation (RAG) • Semantic Search • LLM Integration • Prompt Engineering |
+| **Cybersecurity** | Zero Trust Security • Cloud Security • Cloud Forensics • Incident Response • Behavioural Analytics |
+| **Software Development** | Object-Oriented Programming • REST APIs • Software Design • Full-Stack Development |
+| **Web Technologies** | HTML • CSS • Bootstrap • React • PHP |
+| **Cloud Technologies** | AWS • Cloud Computing |
+| **Databases** | MySQL |
+| **Tools & Platforms** | Git • GitHub • Qlik Sense • UiPath Studio |
+
+---
+
+## Let's Connect
+
+Whether you'd like to discuss research, collaborate on software projects, exchange ideas around Artificial Intelligence, Cybersecurity, Cloud Computing, or simply connect with a fellow developer, I'd be happy to hear from you.
+
+<div align="center">
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kbansheen)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banshofficial123@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent software through research, engineering, and continuous learning."*
+
+<br>
+
+⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
+
+</div>
