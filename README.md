@@ -72,7 +72,7 @@ A research-driven implementation that enhances document retrieval using semantic
 <div align="center">
 
 <a href="https://github.com/Kbansheen/rag-semantic-search-document-retrieval">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=rag-semantic-search-document-retrieval" />
+  <img src="assets/rag-semantic-search-document-retrieval-card.svg" />
 </a>
 
 Research Paper • Documentation • Implementation
@@ -95,7 +95,7 @@ An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust 
 <div align="center">
 
 <a href="https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=AI-Cloud-Forensics-Zero-Trust" />
+  <img src="assets/AI-Cloud-Forensics-Zero-Trust-card.svg" />
 </a>
 
 Research Paper • Implementation
@@ -118,7 +118,7 @@ A web application developed to manage internal IT service requests with a struct
 <div align="center">
 
 <a href="https://github.com/Kbansheen/fmrii-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=fmrii-website" />
+  <img src="assets/fmrii-website-card.svg" />
 </a>
 
 </div>
@@ -140,9 +140,9 @@ A collection of responsive web applications built to explore modern frontend dev
 
 <table>
   <tr>
-    <td><a href="https://github.com/Kbansheen/portfolio_bk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=portfolio_bk" /></a></td>
-    <td><a href="https://github.com/Kbansheen/tindog-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=tindog-website" /></a></td>
-    <td><a href="https://github.com/Kbansheen/space-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=space-website" /></a></td>
+    <td><a href="https://github.com/Kbansheen/portfolio_bk"><img src="assets/portfolio-bk-card.svg" /></a></td>
+    <td><a href="https://github.com/Kbansheen/tindog-website"><img src="assets/tindog-website-card.svg" /></a></td>
+    <td><a href="https://github.com/Kbansheen/space-website"><img src="assets/space-website-card.svg" /></a></td>
   </tr>
 </table>
 
