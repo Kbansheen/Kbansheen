@@ -9,8 +9,8 @@ Building intelligent software systems through Artificial Intelligence, Cybersecu
 <p>
 
 <a href="https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ">Google Scholar</a> •
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
+<a href="https://www.linkedin.com/in/bansheen-kaur-a8120b227">LinkedIn</a> •
+<a href="https://kbansheen.github.io/portfolio_bk/">Portfolio</a> •
 <a href="mailto:banshofficial123@gmail.com">Email</a>
 
 </p>
@@ -71,7 +71,9 @@ A research-driven implementation that enhances document retrieval using semantic
 
 <div align="center">
 
-Repository Card
+<a href="https://github.com/Kbansheen/rag-semantic-search-document-retrieval">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=rag-semantic-search-document-retrieval" />
+</a>
 
 Research Paper • Documentation • Implementation
 
@@ -92,30 +94,11 @@ An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust 
 
 <div align="center">
 
-Repository Card
+<a href="https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=AI-Cloud-Forensics-Zero-Trust" />
+</a>
 
 Research Paper • Implementation
-
-</div>
-
----
-
-### Enterprise RAG Assistant
-
-Development of Retrieval-Augmented Generation workflows for enterprise knowledge management and conversational AI systems.
-
-**Highlights**
-
-- Enterprise knowledge retrieval
-- RAG-based search
-- Conversational AI
-- Intelligent document understanding
-
-<div align="center">
-
-Repository Card
-
-Documentation • Implementation
 
 </div>
 
@@ -134,7 +117,9 @@ A web application developed to manage internal IT service requests with a struct
 
 <div align="center">
 
-Repository Card
+<a href="https://github.com/Kbansheen/fmrii-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=fmrii-website" />
+</a>
 
 </div>
 
@@ -153,7 +138,13 @@ A collection of responsive web applications built to explore modern frontend dev
 
 <div align="center">
 
-Repository Card
+<table>
+  <tr>
+    <td><a href="https://github.com/Kbansheen/portfolio_bk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=portfolio_bk" /></a></td>
+    <td><a href="https://github.com/Kbansheen/tindog-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=tindog-website" /></a></td>
+    <td><a href="https://github.com/Kbansheen/space-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kbansheen&repo=space-website" /></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -245,11 +236,11 @@ Whether you'd like to discuss research, collaborate on software projects, exchan
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bansheen-kaur-a8120b227)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kbansheen)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kbansheen.github.io/portfolio_bk/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banshofficial123@gmail.com)
 
@@ -260,8 +251,6 @@ Whether you'd like to discuss research, collaborate on software projects, exchan
 <div align="center">
 
 *"Building intelligent software through research, engineering, and continuous learning."*
-
-<br>
 
 ⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
 
