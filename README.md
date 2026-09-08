@@ -48,6 +48,7 @@ Rather than treating research as a finished publication, I view it as a continuo
 - Large Language Models
 - Trustworthy AI
 
+> *"Good research doesn't end with publication—it continues through implementation, validation, and continuous improvement."*
 
 ---
 
@@ -55,9 +56,7 @@ Rather than treating research as a finished publication, I view it as a continuo
 
 The projects below represent my work across Artificial Intelligence, Cybersecurity, Cloud Computing, and Software Engineering. They combine research with practical implementations, focusing on building intelligent, secure, and scalable systems.
 
----
-
-### RAG Semantic Search Platform
+### 1. RAG Semantic Search Platform
 
 A research-driven implementation that enhances document retrieval using semantic search and Large Language Models through Retrieval-Augmented Generation (RAG).
 
@@ -82,7 +81,7 @@ A research-driven implementation that enhances document retrieval using semantic
 
 ---
 
-### AI Cloud Security Framework
+### 2. AI Cloud Security Framework
 
 An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust evaluation, and intelligent incident response for secure cloud environments.
 
@@ -106,7 +105,7 @@ An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust 
 
 ---
 
-### FMRI IT Service Portal
+### 3. FMRI IT Service Portal
 
 A web application developed to manage internal IT service requests with a structured backend and database-driven workflow.
 
@@ -127,7 +126,7 @@ A web application developed to manage internal IT service requests with a struct
 
 ---
 
-### Frontend & Web Projects
+### 4. Frontend & Web Projects
 
 A collection of responsive web applications built to explore modern frontend development, UI design, and web engineering.
 
