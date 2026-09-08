@@ -165,9 +165,7 @@ A collection of responsive web applications built to explore modern frontend dev
 
 Research, for me, is more than publishing papers—it's about transforming ideas into practical, reproducible implementations. Every project I work on aims to bridge the gap between theory and real-world engineering, allowing others to understand, reproduce, and build upon the work.
 
----
-
-### Retrieval-Augmented Generation with Semantic Search
+### 1. Retrieval-Augmented Generation with Semantic Search
 
 **Status:** Published
 
@@ -181,7 +179,7 @@ A research study exploring how semantic search and Retrieval-Augmented Generatio
 
 ---
 
-### Role of Nanomaterials in Li-Fi
+### 2. Role of Nanomaterials in Li-Fi
 
 **Status:** Published
 
@@ -193,7 +191,7 @@ A review study exploring how nanomaterials can enhance Li-Fi communication syste
 
 ---
 
-### Integrating AI and Zero Trust in Cloud Forensics & Incident Response
+### 3. Integrating AI and Zero Trust in Cloud Forensics & Incident Response
 
 **Status:** Published
 
