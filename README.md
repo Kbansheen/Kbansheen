@@ -48,7 +48,6 @@ Rather than treating research as a finished publication, I view it as a continuo
 - Large Language Models
 - Trustworthy AI
 
-> *"Good research doesn't end with publication—it continues through implementation, validation, and continuous improvement."*
 
 ---
 
