@@ -75,7 +75,7 @@ A research-driven implementation that enhances document retrieval using semantic
   <img src="assets/rag-semantic-search-document-retrieval-card.svg" />
 </a>
 
-[Research Paper](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ) •
+[Research Paper](https://pubs.aip.org/aip/acp/article-abstract/3426/1/020016/3393206/Retrieval-augmented-generation-with-semantic) •
 [Documentation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval/blob/main/README.md) •
 [Implementation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval)
 
@@ -100,7 +100,7 @@ An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust 
   <img src="assets/AI-Cloud-Forensics-Zero-Trust-card.svg" />
 </a>
 
-[Research Paper](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ) •
+[Research Paper](https://ieeexplore.ieee.org/document/11386291) •
 [Implementation](https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust)
 
 </div>
@@ -177,9 +177,9 @@ A research study exploring how semantic search and Retrieval-Augmented Generatio
 
 **Links**
 
-- 📄 **View Publication** *(Add publication URL)*
-- 💻 **View Implementation** *(GitHub Repository)*
-- 📘 **Project Documentation** *(Repository README)*
+- 📄 [**View Publication**](https://pubs.aip.org/aip/acp/article-abstract/3426/1/020016/3393206/Retrieval-augmented-generation-with-semantic)
+- 💻 [**View Implementation**](https://github.com/Kbansheen/rag-semantic-search-document-retrieval)
+- 📘 [**Project Documentation**](https://github.com/Kbansheen/rag-semantic-search-document-retrieval/blob/main/README.md)
 
 ---
 
@@ -195,22 +195,20 @@ A review study exploring how nanomaterials can enhance Li-Fi communication syste
 
 ---
 
-### AI-Driven Cloud Security & Intelligent Incident Response
+### Integrating AI and Zero Trust in Cloud Forensics & Incident Response
 
-**Status:** Ongoing Research
+**Status:** Published
 
-Current work focuses on building intelligent security systems capable of adaptive trust evaluation, AI-assisted cloud forensics, and intelligent incident response for secure cloud environments.
+A comprehensive review exploring how Artificial Intelligence and Zero Trust principles can be combined for cloud forensics and intelligent incident response in secure cloud environments.
 
-**Current Research Areas**
+**Links**
 
-- AI-assisted Cloud Forensics
-- Continuous Trust Evaluation
-- Behaviour-based Access Control
-- Intelligent Incident Response
-- Explainable AI for Security
-- Practical Research Implementations
+- 📄 [**View Publication**](https://ieeexplore.ieee.org/document/11386291)
+- 💻 [**View Implementation**](https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust)
 
-Future publications, implementations, and project repositories will be added as the research progresses.
+**Ongoing Work**
+
+I continue to build on this work with an implementation exploring adaptive trust evaluation, AI-assisted cloud forensics, and intelligent incident response, with future publications and repositories to be added as the research progresses.
 
 ---
 
