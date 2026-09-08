@@ -75,7 +75,9 @@ A research-driven implementation that enhances document retrieval using semantic
   <img src="assets/rag-semantic-search-document-retrieval-card.svg" />
 </a>
 
-Research Paper • Documentation • Implementation
+[Research Paper](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ) •
+[Documentation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval/blob/main/README.md) •
+[Implementation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval)
 
 </div>
 
@@ -98,7 +100,8 @@ An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust 
   <img src="assets/AI-Cloud-Forensics-Zero-Trust-card.svg" />
 </a>
 
-Research Paper • Implementation
+[Research Paper](https://scholar.google.com/citations?hl=en&user=aLKNx3kAAAAJ) •
+[Implementation](https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust)
 
 </div>
 
