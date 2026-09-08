@@ -179,23 +179,23 @@ A research study exploring how semantic search and Retrieval-Augmented Generatio
 
 ---
 
-### 2. Role of Nanomaterials in Li-Fi
-
-**Status:** Published
-
-A review study exploring how nanomaterials can enhance Li-Fi communication systems and their future potential in next-generation wireless communication.
-
-**Links**
-
-- 📄 **View Publication** *(Add publication URL)*
-
----
-
-### 3. Integrating AI and Zero Trust in Cloud Forensics & Incident Response
+### 2. Integrating AI and Zero Trust in Cloud Forensics & Incident Response
 
 **Status:** Published
 
 A comprehensive review exploring how Artificial Intelligence and Zero Trust principles can be combined for cloud forensics and intelligent incident response in secure cloud environments.
+
+**Overview**
+
+This review examines how security frameworks can move beyond traditional perimeter-based defence toward a continuous, AI-assisted approach for cloud environments. It studies the integration of Zero Trust fundamentals—continuous verification, least-privilege access, micro-segmentation—with AI-driven detection, analytics, and automated response.
+
+**Key Areas Covered**
+
+- Zero Trust architecture principles applied to cloud and cloud-native environments
+- AI-assisted cloud forensics and evidence collection
+- Behavioural analytics for trust evaluation and anomaly detection
+- Intelligent and automated incident response workflows
+- Challenges and future directions in integrating AI with Zero Trust
 
 **Links**
 
@@ -204,7 +204,19 @@ A comprehensive review exploring how Artificial Intelligence and Zero Trust prin
 
 **Ongoing Work**
 
-I continue to build on this work with an implementation exploring adaptive trust evaluation, AI-assisted cloud forensics, and intelligent incident response, with future publications and repositories to be added as the research progresses.
+I continue to build on this published review with an actual implementation exploring adaptive trust evaluation, AI-assisted cloud forensics, and intelligent incident response. New findings, code, and repositories will be added as this research progresses.
+
+---
+
+### 3. Role of Nanomaterials in Li-Fi
+
+**Status:** Published
+
+A review study exploring how nanomaterials can enhance Li-Fi communication systems and their future potential in next-generation wireless communication.
+
+**Links**
+
+- 📄 **View Publication** *(Add publication URL)*
 
 ---
 
