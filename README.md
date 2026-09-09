@@ -48,6 +48,7 @@ Rather than treating research as a finished publication, I view it as a continuo
 - Large Language Models
 - Trustworthy AI
 
+> *"Good research doesn't end with publication—it continues through implementation, validation, and continuous improvement."*
 
 ---
 
@@ -55,7 +56,31 @@ Rather than treating research as a finished publication, I view it as a continuo
 
 The projects below represent my work across Artificial Intelligence, Cybersecurity, Cloud Computing, and Software Engineering. They combine research with practical implementations, focusing on building intelligent, secure, and scalable systems.
 
-### 1. RAG Semantic Search Platform
+### 1. AI Cloud Security Framework
+
+An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust evaluation, and intelligent incident response for secure cloud environments.
+
+**Highlights**
+
+- AI-assisted cloud investigations
+- Behaviour-based trust evaluation
+- Zero Trust security principles
+- Intelligent incident response
+
+<div align="center">
+
+<a href="https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust">
+  <img src="assets/AI-Cloud-Forensics-Zero-Trust-card.svg" />
+</a>
+
+[Research Paper](https://ieeexplore.ieee.org/document/11386291) •
+[Implementation](https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust)
+
+</div>
+
+---
+
+### 2. RAG Semantic Search Platform
 
 A research-driven implementation that enhances document retrieval using semantic search and Large Language Models through Retrieval-Augmented Generation (RAG).
 
@@ -75,30 +100,6 @@ A research-driven implementation that enhances document retrieval using semantic
 [Research Paper](https://pubs.aip.org/aip/acp/article-abstract/3426/1/020016/3393206/Retrieval-augmented-generation-with-semantic) •
 [Documentation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval/blob/main/README.md) •
 [Implementation](https://github.com/Kbansheen/rag-semantic-search-document-retrieval)
-
-</div>
-
----
-
-### 2. AI Cloud Security Framework
-
-An ongoing implementation exploring AI-assisted cloud forensics, adaptive trust evaluation, and intelligent incident response for secure cloud environments.
-
-**Highlights**
-
-- AI-assisted cloud investigations
-- Behaviour-based trust evaluation
-- Zero Trust security principles
-- Intelligent incident response
-
-<div align="center">
-
-<a href="https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust">
-  <img src="assets/AI-Cloud-Forensics-Zero-Trust-card.svg" />
-</a>
-
-[Research Paper](https://ieeexplore.ieee.org/document/11386291) •
-[Implementation](https://github.com/Kbansheen/AI-Cloud-Forensics-Zero-Trust)
 
 </div>
 
@@ -215,6 +216,7 @@ A review study exploring how nanomaterials can enhance Li-Fi communication syste
 
 **Links**
 
+- 📄 **View Publication** *(Add publication URL)*
 
 ---
 
