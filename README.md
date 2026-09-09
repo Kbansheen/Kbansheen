@@ -215,7 +215,6 @@ A review study exploring how nanomaterials can enhance Li-Fi communication syste
 
 **Links**
 
-- 📄 **View Publication** *(Add publication URL)*
 
 ---
 
