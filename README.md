@@ -213,7 +213,6 @@ I continue to build on this published review with an actual implementation explo
 
 A review study exploring how nanomaterials can enhance Li-Fi communication systems and their future potential in next-generation wireless communication.
 
-**Links**
 
 
 ---
